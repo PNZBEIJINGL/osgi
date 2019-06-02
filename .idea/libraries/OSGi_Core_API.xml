@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="OSGi Core API" type="org.osgi.core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../equinox-SDK-4/plugins/org.eclipse.osgi_3.13.300.v20190218-1622.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
