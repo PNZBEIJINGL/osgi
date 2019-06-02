@@ -1,11 +1,12 @@
-demo来源：
+
+Equinor下载：https://download.eclipse.org/equinox/
+
+
+其他参考资料：
+http://hellojava.info/?p=152
 https://www.jianshu.com/p/1751046d1491
 
-下载地址：4.1.1
-https://download.eclipse.org/equinox/
-
-
-////////////////////////////
+//////////// OSGI 基础资料 //////////
 OSGi框架从概念上可以分为三层：
 Module Layer：模块层主要涉及包及共享的代码；
 Lifecycle Layer：生命周期层主要涉及Bundle的运行时生命周期管理；
